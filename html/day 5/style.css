@@ -1,0 +1,28 @@
+header{background-color: #93bfcc; overflow: hidden;}
+.mynav{
+    background: #b7dae0;
+    padding: 5px;
+    
+}
+#titleHead{
+    padding-top: 25px;
+    margin-top: 20px;
+    padding-bottom: 0px;
+   
+    overflow: hidden;
+}
+#abc{
+    
+    padding-top: 0px;
+}
+.mynav a {background: #b7dae0; color: #333333 ; font-weight: bold; text-decoration: none; padding-right: 17px;}
+h3{
+    background-color: #859c80; font-size: 20px;
+}
+
+.main{overflow: hidden; background-color: #859c80;padding: 10px;}
+body{max-width: 900px;margin: 0 auto;}
+h1{padding-top: 10px;padding-bottom: 10px;padding-right: 15px;padding-left: 15px;margin-top: 5px;margin-bottom: 5px;}
+h4{padding-top: 10px;padding-bottom: 10px;padding-right: 35px;padding-left: 35px;color: white;margin-top: 0px;margin-bottom: 0px;}
+#footer{background-color: #859c80; text-align: center;
+}
