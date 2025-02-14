@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <video width="500" height="400" controls>
+        <source src="8.mp4" type="video/mp4">
+    </video>
+
+    <br><br><br>
+
+    <audio width="500" height="400" controls>
+        <source src="8.mp4" type="video/mp4">
+    </audio>
+
+    <br><br><br> 
+
+    <form >
+        <label for="First">First name</label>
+        <input type="text" id="First" placeholder="Enter First Name">
+        <br>
+        <label for="pass">password</label>
+        <input type="password" id="pass" placeholder="Enter your password">
+        <br>
+        <label for="Statee">select your State</label>
+        <select name="State" id="Statee">
+            <option value="-1">State</option>
+            <option value="Maharastra">Maharastra</option>
+            <option value="goa">Goa</option>
+            <option value="Gujrat">Gujrat</option>
+          
+        </select>
+        <br><br><br>
+
+        <input type="checkbox" name="check1" id="rohan" value="1">
+        <label for="check">rohan is good boy</label><br>
+        <input type="checkbox" name="check2" id="Ajinkya" value="2">
+        <label for="Ajinkya">ajinkya is CR</label><br>
+        <input type="checkbox" name="check3" id="anand" value="3">
+        <label for="check">anand is a developer</label><br>
+        <input type="checkbox" name="check4" id="vivek" value="4">
+        <label for="check">Vivek</label>
+         
+        <br><br><br>
+        
+        <input type="radio" name="gender" id="male" value="1">
+        <label for="male">Male</label><br>
+        <input type="radio" name="gender" id="female" value="2">
+        <label for="female">female</label>
+
+        <br><br><br>
+        <label for="myfile">select file:</label>
+        <input type="file" id="myfile" name="myfile"> <br>
+       <input type="submit" value="submit" >
+        
+        <br><br><br>
+        <label for="quantity">Quantity:</label>
+        <input type="number" id="quantity" name="quantity" min="0" max="10" step="2" value="8">
+        <input type="submit" value="submit">
+        <br><br><br>
+
+        <label for="vol">Volume (between 0 and 50):</label>
+        <input type="range" name="rangee" id="vol" min="0" max="100" step="5" value="8">
+        <br><br><br>
+
+        <label for="datemin">Enter a date after 2000-01-01:</label>
+  <input type="date" id="datemin" name="datemin" min="2024-11-02"><br><br>
+
+  <label for="datemax">Enter a date before 1980-01-01:</label>
+  <input type="date" id="datemax" name="datemax" max="2025-12-31"><br><br>
+
+    </form>
+</body>
+</html>
