@@ -1,0 +1,20 @@
+.mainITCompanySection{
+    background: #e8e4e4;
+    height: 250px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 500px;
+    float: right;
+}
+
+.mainITCompanySection h1{
+ color: #197ac0;
+}
+
+.mainITCompanySection button{
+    margin: 25px;
+    padding: 10px;
+    
+    
+    width: 120px;
+}

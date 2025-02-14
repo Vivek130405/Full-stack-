@@ -1,0 +1,26 @@
+.jk{
+   background: #29e082;
+   position: relative;
+   /* border: 2px solid black; */
+   height: 500px;
+   width: 500px;
+}
+#vivek{
+    height: 100px;
+    width: 100px;
+     background: red;
+    position: absolute;
+    right: 0px;
+    top: 0px; 
+    
+} 
+
+
+#ajinkya{
+    height: 100px;
+    width: 100px;
+     background: yellow;
+    position: absolute;
+    top: 0px;
+    right: 0px; 
+} 

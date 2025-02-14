@@ -1,0 +1,54 @@
+.main{
+ margin: 0px 300px 0px 300px;
+ border: 2px solid black;
+ height: 2000px;
+}
+header{
+    padding: 10px 35px;
+    background: #000;
+    border: 2px solid red;
+    height: 300px;
+    max-width: 856px;
+}
+
+header h2{
+    color: white;
+    text-align: center;
+
+}
+
+.boxes{
+   
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 15px;
+    border: 2px solid white;
+    height: 150px;
+    width: 200px;
+    color: white;
+    margin: 10px 10px 0px 10px;
+    float: left;
+}
+
+.sec img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+.sec-d{
+    margin-top: 30px;
+    float: right;
+}
+
+.sec{
+    background: #f1d3c8;
+    padding: 30px;
+}
+
+.sec b{
+    margin-bottom: -10px;
+}
+
+.sec h2{
+    overflow: hidden;
+}

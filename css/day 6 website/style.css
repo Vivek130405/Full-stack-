@@ -1,0 +1,83 @@
+body{
+    max-width: 1187px;
+    margin: 0 auto;
+}
+
+.div-1{
+    background-image: url("background1.jpg");
+    height: 700px;
+    max-width: 1187px;
+    padding: 10px;
+}
+
+.nav{
+    background-color: #f2f2f2;
+    max-height: 40px;
+    max-width: 1090px;
+    margin: 10px 40px -10px 40px !important;
+    padding: 14px 14px;
+    border-radius: 40px;
+   
+}
+
+.nav img{
+    height: 36px;
+    width: 36px;
+    border-radius: 10px;
+}
+.nav span{
+    font-size: 28px;
+    position: relative;
+    top: -9px;
+    left: 7px;
+}
+
+.nav-tags{
+    float: right;
+    margin: 2px -16px;
+    /* opacity: 62%; */
+}
+.nav li{
+    display: inline;
+    margin-right: 35px;
+    
+}
+
+.nav button{
+    margin-right: 20px;
+    padding: 10px 10px 10px 32px;
+    border-radius: 50px;
+    background-color: #f9683c ;
+    text-transform: uppercase;
+    color: white;
+    border: #f9683c;
+}
+
+.nav button li{
+    margin:0px 28px 0px 0px;
+}
+.li{
+    opacity: 62%;
+}
+
+.logos img{
+   height: 83px;
+}
+
+.logos{
+    text-align: center;
+    margin: 114px 0px 0px 0px;
+}
+
+.span{
+    text-align: center;
+}
+.span span{
+    font-size: 65px;
+    margin-right: 10px;
+    font-family:  "Gill Sans", sans-serif;
+    
+}
+#Web-Design{
+    color: #f5693f;
+}

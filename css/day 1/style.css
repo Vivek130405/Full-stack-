@@ -1,0 +1,162 @@
+body{
+    margin: 0px 120px 0px 120px;
+}
+
+#logo{
+    opacity: 40%;
+    display: inline;
+    font-size: 30px;
+}
+nav i{
+   margin-left: 1140px;
+   font-size: 25px;
+}
+#maindiv{
+height: 1350px;
+width: 100%;
+background: #197ac0;
+
+}
+
+#maindiv img{
+    height: 400px;
+    width:auto ;
+}
+
+
+
+.rightdiv{
+    width: 500px;
+    height: 270px;
+    background: white;
+    overflow: auto;
+   margin-left: 700px;
+   margin-bottom: 150px;
+   padding: 15px;
+   border-radius: 15px;
+}
+
+.rightdiv h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    color: #197ac0;
+}
+
+.rightdiv button{
+    padding: 8px 20px;
+    border-radius: 4px;
+    color: white;
+   background: #197ac0;
+    border: 2px solid #197ac0;
+    margin-top: 25px;
+}
+
+.rightdiv button a{
+    text-decoration: none;
+    color: white;
+}
+
+.paragraph{
+    overflow: hidden;
+   margin-left: 25px;
+}
+
+.paragraph h2{
+    color: white;
+    opacity: 70%;
+    margin-bottom: 10px;
+}
+
+.paragraph p{
+    color: white;
+    line-height: 22px;
+}
+
+.paragraph button{
+    padding: 8px 20px;
+    border-radius: 5px;
+    color: black;
+   background: white;
+    border: 2px solid #197ac0;
+    margin-top: 15px;
+}
+
+.we{
+    width: 292px;
+    float: left;
+    color: white;
+}
+
+.lower{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.middle{
+    overflow: hidden;
+    height: 700px;
+    width: auto;
+    background: #e8e4e4;
+}
+
+.middle h1{
+    text-align: center;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #197ac0;
+}
+
+.middle p{
+    text-align: center;
+}
+
+.jk{
+    width: 395px;
+    float: left;
+    margin-left: 16px;
+}
+
+.jk u{
+    margin-left: 15px;
+}
+
+.jk i{
+    color: #197ac0;
+    font-size: 30px;
+}
+
+.kk{
+    width: 395px;
+    float: left;
+    margin-left: 16px;
+    margin-top: 20px;
+}
+
+.kk i{
+    color: #197ac0;
+    font-size: 30px;
+}
+
+.kk u{
+    margin-left: 15px;
+}
+
+.jk h2{
+    color: #197ac0;
+}
+
+.kk h2{
+    color: #197ac0;
+}
+
+footer{
+    overflow: hidden;
+    height: 130px;
+    width: auto;
+    background: #000;
+}
+footer p{
+    color: white;
+    line-height: normal;
+    text-align: center;
+}
