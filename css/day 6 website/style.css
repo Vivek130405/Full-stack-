@@ -5,7 +5,7 @@ body{
 
 .div-1{
     background-image: url("background1.jpg");
-    height: 700px;
+    height: 610px;
     max-width: 1187px;
     padding: 10px;
 }
@@ -62,6 +62,7 @@ body{
 
 .logos img{
    height: 83px;
+   
 }
 
 .logos{
@@ -80,4 +81,146 @@ body{
 }
 #Web-Design{
     color: #f5693f;
+}
+
+.paragraph{
+    text-align: center;
+}
+
+.but button{
+   
+    padding: 13px 31px;
+    border: #f9683c;
+    border-radius: 50px;
+    color: white;
+   
+    
+    background-color: #f9683c ;
+    text-transform: uppercase;
+  
+}
+
+.but{
+    text-align: center;
+    margin-top: 24px;
+}
+
+.div-2{
+    max-width: 1187px;
+    height: 400px;
+    background: #000;
+    overflow: hidden;
+}
+
+.box{
+    border-radius: 12px;
+    float: left;
+    background-color: #272b2e;
+    color: white;
+    height: 200px;
+    margin-right: 19px;
+    padding: 12px
+   
+}
+
+.div-2 h1{
+    color: white;
+    text-align: center;
+}
+
+.div-2-main{
+    max-width: 1187px;
+    height: 229px;
+    margin: 46px 88px 28px 98px;
+}
+
+.box img{
+    margin-bottom: 10px;
+}
+
+.div-3{
+    background-image: url("background1.jpg");
+    height: 600px;
+    max-width: 1187px;
+    overflow: hidden;
+}
+
+.div-3 img{
+    margin: 81px 72px 0px 146px;
+    height: 440px;
+    width: 440px;
+    border-radius: 50%;
+    float: left;
+}
+
+.div-3 div{
+    margin: 211px 0px 0px 0px;
+}
+
+.side-div{
+    position: relative;
+    
+}
+
+.side-div b{
+    position: absolute;
+    top: -21px;
+    font-size: 13px;
+}
+
+.side-div h1{
+    font-weight: bold;
+}
+
+.side-div p{
+   font-size: 15px;
+   opacity: 79%
+}
+
+.side-div button{
+    padding: 11px 35px;
+    border: #f9683c;
+    border-radius: 50px;
+    color: white;
+   
+    
+    background-color: #f9683c ;
+    text-transform: uppercase;
+}
+
+.div-4{
+    overflow: hidden;
+    background-color: #000;
+    height: 650px;
+    color: white;
+    padding: 80px 45px;
+}
+
+.div-4 .text{
+    background-color: #272b2e;
+    height: 647px;
+    width: 408px;
+    margin-right: 19px;
+    float: left;
+    border-radius: 6px;
+    position: relative;
+}
+
+.div-4 img{
+    height: 647px;
+    width: 669px;
+    border-radius: 6px;
+}
+
+.textt{
+    position: absolute;
+    bottom: 10px;
+    left: 24px;
+}
+.textt h1{
+    font-size: 42px;
+    margin-bottom: 0px;
+}
+.textt p{
+    font-size: 15px;
 }
