@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form onsubmit="display(event); return false">
+        <input type="text" id="fname">
+        <input type="password" placeholder="password" id="pass">
+        <br>
+        <input type="checkbox" value="india" id="india">
+        <label for="1">India</label>
+        <input type="checkbox" value="russia"  id="russia">
+        <label for="2">Russia</label>
+        <input type="checkbox" value="Usa" id="Usa">
+        <label for="3">Usa</label>
+        <br>
+        <input type="radio" name="r"  value="Male" id="r1">
+
+        <label for="r1">Male</label>
+        <input type="radio" name="r" value="Female" id="r2">
+        <label for="r1">Female</label>
+        <button type="submit" >Click</button>
+        <button type="reset" >Reset</button>
+    </form>
+    <p>Intormation</p>
+    <span id="firstname"></span>
+    <span id="password"></span>
+    <span id="checkIndia"></span>
+    <span id="checkRussia"></span>
+    <span id="checkUsa"></span>
+    <span id="Gender"></span>
+
+   
+    <script src="app.js"></script>
+</body>
+</html>
