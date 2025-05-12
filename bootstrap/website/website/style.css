@@ -1,0 +1,104 @@
+.col-4{
+    margin-top: 20px;
+  
+    height: 250px;
+}
+
+.col-4 img{
+    margin-top: 10px;
+    height: 90px;
+    width: 90px;
+}
+
+.sevicescard{
+    border: 0px;
+}
+
+
+
+.navouter img{
+    height: 30px;
+
+}
+
+.nav3 li{
+    display: inline;
+    margin-right: 7px;
+   
+}
+
+.nav3 li a{
+    color: aliceblue;
+}
+
+.nav3{
+   
+    float: right;
+}
+
+.navouter{
+    color: black;
+    margin-top: 20px;
+   
+   
+}
+
+.imageee{
+  padding-top: 200px;
+  padding-bottom: 200px;
+  text-align: center;
+   color: white;
+  
+   background-image: url(front.jpg);
+
+  margin-top: -50px;
+    
+}
+.cards{
+   
+    display: inline-block;
+    margin:8px;
+}
+.img{
+    margin-right: 82px;
+}
+#portfolio{
+    text-align: center;
+}
+
+.about img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    
+}
+
+.umble{
+    width: 570px;
+    height: 215px;
+
+}
+
+#Humble{
+    float: right;
+
+}
+.ble{
+    margin-right: 180px;
+    text-align: right;
+}
+
+.agency{
+    width: 570px;
+    height: 215px;
+
+}
+
+#gency{
+    float: left;
+}
+
+.ency{
+    margin-right: 180px;
+    text-align: left;
+}

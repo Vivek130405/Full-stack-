@@ -1,0 +1,40 @@
+header{
+    background-color: black;
+    color: white;
+    height: 45px;
+    overflow: hidden;
+}
+
+header li{
+   display: inline;
+   margin-right: 25px;
+  
+}
+
+header ul{
+    margin-top: 13px;
+}
+
+main{
+    margin: 37px 128px;
+}
+main h1{
+    text-align: center;
+}
+#music{
+    text-align: center;
+}
+main p{
+    text-align: justify;
+}
+
+.imagess{
+    margin: 37px 27px;
+}
+.imagess img{
+     display: inline;
+     margin-right: 70px;
+}
+#last{
+    margin-right: 0px;
+}
