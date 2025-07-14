@@ -1,0 +1,25 @@
+#gh{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    color: black;
+
+}
+#gh:hover{
+    transform: scale(1.2);
+   
+   
+}
+.multp{
+     height: 100px;
+    width: 100px;
+    background-color: rebeccapurple;
+    
+
+}
+#idd{
+     height: 100px;
+    width: 100px;
+    background-color: darkblue;
+    color: white;
+}
